@@ -17,5 +17,5 @@ This notebook show the implementation of five types of autoencoders :
 * Regularized Autoencoder
 * Variational Autoencoder
 
-The explanation of each (except VAE) can be found [here](https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f)
+The explanations of each (except VAE) can be found [here](https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f)
 
