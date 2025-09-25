@@ -9,7 +9,7 @@
 
 <img src="https://nathanhubens.github.io/posts/images/autoencoders/AE.png" alt="drawing" width="750"/>
 
-This notebook show the implementation of five types of autoencoder: 
+This notebook show the implementation of five types of autoencoder:
 
 * Vanilla Autoencoder
 * Multilayer Autoencoder
