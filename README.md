@@ -11,7 +11,7 @@
 
 This notebook show the implementation of five types of autoencoder:
 
-* Vanilla Autoencoder
+* Vanilla Autoencoder 
 * Multilayer Autoencoder
 * Convolutional Autoencoder
 * Regularized Autoencoder
